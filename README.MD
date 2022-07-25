@@ -1,0 +1,1 @@
+this is some practice code for numpy pandas and matplotib
